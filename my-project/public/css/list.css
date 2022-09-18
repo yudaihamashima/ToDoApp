@@ -1,0 +1,123 @@
+.create-sort {
+    margin-bottom: 8%;
+}
+
+.show-task-deadline {
+    text-align: center;
+}
+
+.error-message{
+    color: red;
+}
+
+.sort-deadline-order {
+    text-align: center;
+}
+
+.btn {
+    border-radius: 4px;
+    display: block;
+    text-decoration: none;
+}
+
+.create-new {
+    text-align: center;
+    margin: 0 auto;
+    background-color: rgb(33, 137, 255);
+    color: white;
+    width: 70%;
+}
+
+.update {
+    margin-top: 3%;
+    display: flex;
+    flex-direction: row;
+}
+
+.edit {
+    text-align: center;
+    background-color: rgb(12, 144, 0);
+    color: white;
+    width: 50%;
+    margin: 2%;
+    border-color: black;
+    border-bottom: 4px;
+}
+
+.delete {
+    text-align: center;
+    background-color: rgb(255, 55, 0);
+    color: white;
+    width: 50%;
+    margin: 2%;
+    border-color: black;
+    border-bottom: 4px;
+}
+
+.task-boxes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.task-box {
+    border-radius: 10px;
+    width: 45%;
+    margin: 2%;
+    border: solid 2px rgb(130, 130, 130);
+    box-shadow: 5px 5px rgb(221, 221, 221);
+}
+
+.task-contents {
+    margin: 0 3%;
+}
+
+.task-name {
+    font-size: 20px;
+    background-color: rgb(131, 255, 255);
+    margin-bottom: 15%;
+}
+
+.sort-section {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.sort-by-deadline {
+    text-align: center;
+    background-color: rgb(255, 98, 0);
+    color: white;
+    width: 100%;
+    margin: 5% 0;
+}
+
+.sort-section form {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.deadline {
+    width: 100%;
+}
+
+.show-until-show {
+    background-color: rgb(101, 157, 221);
+    color: white;
+    width: 80%;
+    margin-left: 5%;
+}
+
+.show_all_tasks {
+    text-align: center;
+    background-color: rgb(255, 0, 128);
+    color: white;
+    width: 100%;
+    margin: 5% 0;
+}
+
+
+
+
+
